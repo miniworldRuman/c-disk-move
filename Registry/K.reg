@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
+"AppData" = "K:\AppData\Roaming"
+"Cache" = "K:\AppData\Local\Microsoft\Windows\INetCache"
+"CD Burning" = "K:\AppData\Local\Microsoft\Windows\Burn\Burn"
+"Cookies" = "K:\AppData\Local\Microsoft\Windows\INetCookies"
+"History" = "K:\AppData\Local\Microsoft\Windows\History"
+"Local AppData" = "K:\AppData\Local"
+"Recent" = "K:\AppData\Roaming\Microsoft\Windows\Recent"
+"Templates" = "K:\AppData\Roaming\Microsoft\Windows\Templates"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders]
+"AppData" = "K:\AppData\Roaming"
+"Cache" = "K:\AppData\Local\Microsoft\Windows\INetCache"
+"CD Burning" = "K:\AppData\Local\Microsoft\Windows\Burn\Burn"
+"Cookies" = "K:\AppData\Local\Microsoft\Windows\INetCookies"
+"History" = "K:\AppData\Local\Microsoft\Windows\History"
+"Local AppData" = "K:\AppData\Local"
+"Recent" = "K:\AppData\Roaming\Microsoft\Windows\Recent"
+"Templates" = "K:\AppData\Roaming\Microsoft\Windows\Templates"
