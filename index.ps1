@@ -67,7 +67,7 @@ $form.Controls.Add($listBox)
 
 $form.Topmost = $true
 
-$acb = $form.ShowDialog()
+$result = $form.ShowDialog()
 
 if ($result -eq [System.Windows.Forms.DialogResult]::OK)
 {
