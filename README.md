@@ -22,7 +22,7 @@ This software can solve the problem of C disk explosion.
 
 Manufacturing is not easy to ask for tips
 
-! [1674310567659] (image/README/1674310567659.png)
+![1674312231575](image/README/1674312231575.png)
 
 ## Legal Liability
 
