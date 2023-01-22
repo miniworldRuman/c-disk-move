@@ -73,8 +73,8 @@ if ($result -eq [System.Windows.Forms.DialogResult]::OK)
 {
     $acb = $listBox.SelectedItem
 }
-
-Copy-Item %USERPROFILE%/AppData $acb":\"
+E
+Copy-Item C:\Users\"$env:UserName"\AppData $acb":\"
 
 $tc.Popup('When the copy of the file is complete, the registry modification begins',999,'porompr',0)
 
