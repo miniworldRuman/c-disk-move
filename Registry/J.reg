@@ -1,21 +1,21 @@
-Windows Registry Editor Version 5.00
+WindowsRegistryEditorVersion5.00
 
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders]
-"AppData" = "J:\AppData\Roaming"
-"Cache" = "J:\AppData\Local\Microsoft\Windows\INetCache"
-"CD Burning" = "J:\AppData\Local\Microsoft\Windows\Burn\Burn"
-"Cookies" = "J:\AppData\Local\Microsoft\Windows\INetCookies"
-"History" = "J:\AppData\Local\Microsoft\Windows\History"
-"Local AppData" = "J:\AppData\Local"
-"Recent" = "J:\AppData\Roaming\Microsoft\Windows\Recent"
-"Templates" = "J:\AppData\Roaming\Microsoft\Windows\Templates"
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellFolders]
+"AppData"="J:\AppData\Roaming"
+"Cache"="J:\AppData\Local\Microsoft\Windows\INetCache"
+"CDBurning"="J:\AppData\Local\Microsoft\Windows\Burn\Burn"
+"Cookies"="J:\AppData\Local\Microsoft\Windows\INetCookies"
+"History"="J:\AppData\Local\Microsoft\Windows\History"
+"LocalAppData"="J:\AppData\Local"
+"Recent"="J:\AppData\Roaming\Microsoft\Windows\Recent"
+"Templates"="J:\AppData\Roaming\Microsoft\Windows\Templates"
 
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders]
-"AppData" = "J:\AppData\Roaming"
-"Cache" = "J:\AppData\Local\Microsoft\Windows\INetCache"
-"CD Burning" = "J:\AppData\Local\Microsoft\Windows\Burn\Burn"
-"Cookies" = "J:\AppData\Local\Microsoft\Windows\INetCookies"
-"History" = "J:\AppData\Local\Microsoft\Windows\History"
-"Local AppData" = "J:\AppData\Local"
-"Recent" = "J:\AppData\Roaming\Microsoft\Windows\Recent"
-"Templates" = "J:\AppData\Roaming\Microsoft\Windows\Templates"
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\UserShellFolders]
+"AppData"="J:\AppData\Roaming"
+"Cache"="J:\AppData\Local\Microsoft\Windows\INetCache"
+"CDBurning"="J:\AppData\Local\Microsoft\Windows\Burn\Burn"
+"Cookies"="J:\AppData\Local\Microsoft\Windows\INetCookies"
+"History"="J:\AppData\Local\Microsoft\Windows\History"
+"LocalAppData"="J:\AppData\Local"
+"Recent"="J:\AppData\Roaming\Microsoft\Windows\Recent"
+"Templates"="J:\AppData\Roaming\Microsoft\Windows\Templates"
